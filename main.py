@@ -88,4 +88,5 @@ def main():
 
     print(f"STI = {sti:.2f}")
 
+# The main function starts.
 main()
